@@ -8,7 +8,7 @@
     "asynchronous",
     "async",
     "loader",
-    "browser",
+    "browser"
   ],
   "repository": {
     "type": "git",
